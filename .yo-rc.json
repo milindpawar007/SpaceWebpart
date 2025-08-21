@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.17.1",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "space",
+    "libraryId": "c25574dc-6550-41e4-a924-7539d7d7ec94",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "space",
+    "solutionShortDescription": "space description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
